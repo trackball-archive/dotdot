@@ -1,0 +1,2 @@
+# dotdot
+wp theme dotdot
